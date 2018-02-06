@@ -1,5 +1,7 @@
 # AWS CLI with Federated Credentials - Tool
 
+***Note: This code is explicitly written for AWS(Amazon Web Services) CLI Tool Credentials.***
+
 This is a command line tool to inject an AWS **aws_access_key_id** and **aws_secret_access_key** into your local credentials file using STS::AssumeRoleWithSAML and a SAML assertion retrieved from your forms based identity federation provider.
 
 This is a port of the Python script written by 'Quint Van Demen' on the AWS Security Blog.
