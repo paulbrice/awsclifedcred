@@ -1,4 +1,6 @@
-# AWS CLI with Federated Credentials - Tool
+# No Longer Maintained :(
+
+AWS CLI with Federated Credentials - Tool
 
 `The cloud has moved on.. this is no longer being maintained.`
 
