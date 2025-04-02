@@ -1,6 +1,4 @@
-# AWS CLI with Federated Credentials - Tool
-
-**The cloud has moved on.. this is no longer being maintained.**
+# AWS CLI with Federated Credentials - Tool // The cloud has moved on.. this is no longer being maintained.
 
 This is a command line tool to inject an AWS **aws_access_key_id** and **aws_secret_access_key** into your local credentials file using STS::AssumeRoleWithSAML and a SAML assertion retrieved from your forms based identity federation provider.
 
